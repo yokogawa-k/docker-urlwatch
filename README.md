@@ -5,7 +5,7 @@ Usage
 ----
 
 ```console
-$ git clone yokogawa-k/docker-urlwatch
+$ git clone https://github.com/yokogawa-k/docker-urlwatch
 $ cd docker-urlwatch
 $ docker build -t yokogawa/urlwatch .
 $ vi urls.txt
