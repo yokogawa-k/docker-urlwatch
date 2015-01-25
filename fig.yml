@@ -1,0 +1,8 @@
+# vim: set ft ts=4 sw=4 sts=0 et:
+
+urlwatch:
+    image: yokogawa/urlwatch
+    volumes:
+        - ./:/work/
+    command: urlwatch -v -c /work/cache/ --urls=/work/urls.txt --hooks=/work/hooks.py
+
