@@ -1,7 +1,7 @@
 Docker Image for [thp/urlwatch](https://github.com/thp/urlwatch)
 ====
 
-Usage
+How to use
 ----
 
 ```console
